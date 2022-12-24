@@ -17,4 +17,4 @@ This a mobile application that enables farmers to perform in-field diagnosis of 
 * Mobile App development
 
 ### Other information
-This application was not yet available at the time of writing on Google Play store but will soon be available on play store. For more information, please contact me at [omarajonathan@gmail.com](omarajonathan@gmail.com)  
+This application was available on Google Play Store as [AgroDFTool](https://play.google.com/store/apps/details?id=com.invitech.autofama&hl=en) by the time of writing this documentation. For more information, please contact me at [omarajonathan@gmail.com](omarajonathan@gmail.com)  
