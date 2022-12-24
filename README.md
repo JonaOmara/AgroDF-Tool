@@ -15,6 +15,7 @@ This a mobile application that enables farmers to perform in-field diagnosis of 
 * Computer vision
 * Natural language processing 
 * Mobile App development
+* AWS
 
 ### Other information
 This application was available on Google Play Store as [AgroDFTool](https://play.google.com/store/apps/details?id=com.invitech.autofama&hl=en) by the time of writing this documentation. For more information, please contact me at [omarajonathan@gmail.com](omarajonathan@gmail.com)  
